@@ -2,7 +2,11 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Nsimba Afonso, estou com 21 anos e sou natural de Luanda, Angola. Concluí o ensino médio no IPIAL, com o curso técnico de informática.
+Sou desenvolvedor web, atuando no front-end com HTML, CSS, JS, BOOTSTRAP e no back-end com PHP e Laravel, juntamente com o banco de dados relacional MySQL.
+
+Também possuo conhecimentos em redes de computadores(CCNA1) e em help desk e hardware(IT ESSENTIALS).
+
+Atualmente estudando ReactJS e posteriormente NodeJS.
 
 <p align="left"> 
     <a href="https://github.com/nsimbaafonso?tab=repositories&sort=stargazers">
