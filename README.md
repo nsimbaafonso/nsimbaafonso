@@ -2,11 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou desenvolvedor web, atuando no front-end com HTML, CSS, JS, BOOTSTRAP e no back-end com PHP e Laravel, juntamente com o banco de dados relacional MySQL.
+Sou desenvolvedor web, atuando no front-end com HTML, CSS, JS, BOOTSTRAP, TailwindCSS, ReactJS e no back-end com PHP, Laravel, NodeJS e juntamente com o banco de dados relacional MySQL.
 
-Também possuo conhecimentos em redes de computadores(CCNA1) e em help desk e hardware(IT ESSENTIALS).
-
-Atualmente estudando ReactJS e posteriormente NodeJS.
+Também possuo conhecimentos em redes de computadores e em help desk.
 
 <p align="left"> 
     <a href="https://github.com/nsimbaafonso?tab=repositories&sort=stargazers">
